@@ -1,0 +1,23 @@
+{
+  "name": "vidhya",
+  "version": "1.0.0",
+  "description": "fullstack....",
+  "main": "index.js",
+  "scripts": {
+"start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17h51a0594/vidhya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17h51a0594/vidhya/issues"
+  },
+  "homepage": "https://github.com/17h51a0594/vidhya#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
